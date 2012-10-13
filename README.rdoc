@@ -1,6 +1,6 @@
 = levenshtein-c
 
-  Standard native C levenshtein implementation (based off original levenshtein gem) with unicode support.
+  Standard native C levenshtein implementation (inspired by Schuyler'gem) with unicode support, better re-use of MRI 1.9 structs and much faster than the ffi based spawn.
 
   Time:  O(n²)
   Space: O(n)
