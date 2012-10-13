@@ -1,0 +1,16 @@
+= levenshtein-c
+
+  Standard native C levenshtein implementation (based off original levenshtein gem) with unicode support.
+
+  Time:  O(n²)
+  Space: O(n)
+
+== Installation
+
+  gem install levenshtein-c
+
+== Example
+
+  require 'levenshtein-c.so'
+
+  Levenshtein.distance("helloworld", "hello")
