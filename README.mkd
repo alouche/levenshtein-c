@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/levenshtein-c.png)](http://badge.fury.io/rb/levenshtein-c)
+
 # levenshtein-c
 
   Standard native C levenshtein implementation (inspired by Schuyler'gem) with unicode support, better re-use of MRI 1.9 structs and much faster than the ffi based spawn.
