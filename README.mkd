@@ -1,3 +1,4 @@
+[![Dependency Status](https://gemnasium.com/alouche/levenshtein-c.png)](https://gemnasium.com/alouche/levenshtein-c)
 [![Gem Version](https://badge.fury.io/rb/levenshtein-c.png)](http://badge.fury.io/rb/levenshtein-c)
 
 # levenshtein-c
