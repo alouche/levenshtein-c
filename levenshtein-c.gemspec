@@ -9,5 +9,5 @@ Gem::Specification.new do |s|
   s.homepage    = "https://github.com/alouche/levenshtein-c"
   s.files       = Dir.glob("ext/**/*.{c,rb}") + Dir.glob("lib/**/*.rb")
   s.extensions << "ext/levenshtein/extconf.rb"
-  s.add_development_dependency "rake-compiler"
+  s.add_development_dependency "rake-compiler", "~> 0.8.3"
 end
